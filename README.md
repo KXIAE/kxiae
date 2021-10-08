@@ -1,5 +1,5 @@
 Hello, I’m @kxiae
-I’m interested in learning stuff tho I'm not learning anything now.
+I’m interested in learning stuff.
 
 IG/Kaiteze
 
