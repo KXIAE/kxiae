@@ -1,7 +1,7 @@
 Hello, I’m @kxiae
 I’m interested in learning stuff.
 
-IG/Kaiteze
+IG/okvoodoo
 
 <!---
 kxiae/kxiae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
