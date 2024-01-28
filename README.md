@@ -1,7 +1,9 @@
-Hello, I’m @kxiae
+Hello, I’m Gabb!
 I’m interested in learning stuff.
 
-IG/runthatvoodoo
+For now I know the basics of web development:)
+
+check out some of my proyects here!
 
 <!---
 kxiae/kxiae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
